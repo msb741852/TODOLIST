@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+body{
+    background-color: rgba(247, 245, 125, 0.658);
+    font-family: 'Nanum Brush Script', cursive;
+    margin: 5%;
+    text-align: center;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+#inputText {
+    width: 70%;
+    height:  20px;
+    border-radius: 4px;
+}
+
+#list {
+    border-radius: 4px;
+    margin-top: 3%;
+    text-align: left;
+    border: solid 1px;
+}
+
+.clear {
+    text-decoration-line: line-through;
+}
+
+.li_style {
+    margin-top: 0;
+    border: solid 1px;
+    padding: 5%;
+    font-size: 25px;
+}
+
+#addBtn {
+    font-family: 'Nanum Brush Script', cursive;
+    font-weight: bold;
+    font-size: 20px ;
+    border-radius: 4px;
+    background-color: #dfd4bc;
+    color: black;
+    border: 2px solid #dfd4bc;
+}
+
+.btn_style{
+    margin-top: -3px;
+    font-family: 'Nanum Brush Script', cursive;
+    font-weight: bold;
+    font-size: 20px ;
+    border-radius: 4px;
+    background-color: #dfd4bc;
+    color: black;
+    border: 2px solid #dfd4bc;
+}
+
